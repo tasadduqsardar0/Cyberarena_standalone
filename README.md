@@ -1,46 +1,38 @@
 # 🛡️ CyberArena
 
-**CyberArena** is a cybersecurity-focused project designed to provide an interactive platform for exploring cybersecurity concepts, challenges, and practical security-related learning.
+**CyberArena** is a Python-based cybersecurity project created to explore cybersecurity concepts through practical and interactive functionality.
 
-## 🌐 Project Overview
+## 📌 About the Project
 
-CyberArena aims to create an engaging environment where users can improve their understanding of cybersecurity through practical activities and challenges.
+CyberArena is designed as a hands-on cybersecurity project where users can explore different security-related concepts and techniques using Python.
 
-The project focuses on combining **web development and cybersecurity concepts** into an interactive learning experience.
+The project was developed as part of my learning journey in **Software Engineering and Cybersecurity**.
 
 ## ✨ Features
 
-* 🛡️ Cybersecurity-focused learning environment
-* 🎯 Interactive cybersecurity challenges
+* 🛡️ Cybersecurity-focused functionality
+* 🐍 Built with Python
 * 🔐 Practical security concepts
-* 💻 User-friendly web interface
-* 📚 Educational cybersecurity content
-* 🚀 Designed for hands-on learning and experimentation
+* 💻 Interactive command-line experience
+* 🎯 Designed for cybersecurity learning and experimentation
+* 📚 Educational and beginner-friendly
 
 ## 🛠️ Technologies Used
 
-* **HTML5**
-* **CSS3**
-* **JavaScript**
-* **Python**
-* **Flask**
-* **SQL / Database Technologies**
-* **Git & GitHub**
+* **Python 3**
+* Python Standard Library
+* Git & GitHub
 
 ## 📂 Project Structure
 
 ```text
 CyberArena/
 │
-├── static/
-├── templates/
-├── app.py
-├── requirements.txt
-├── README.md
-└── ...
+├── CyberArena.py
+└── README.md
 ```
 
-## 🚀 Getting Started
+## 🚀 How to Run
 
 ### 1. Clone the repository
 
@@ -48,44 +40,44 @@ CyberArena/
 git clone https://github.com/your-username/CyberArena.git
 ```
 
-### 2. Navigate to the project
+### 2. Open the project folder
 
 ```bash
 cd CyberArena
 ```
 
-### 3. Install dependencies
+### 3. Run the Python program
 
 ```bash
-pip install -r requirements.txt
+python CyberArena.py
 ```
 
-### 4. Run the application
+> Make sure Python 3 is installed on your computer.
 
-```bash
-python app.py
-```
+## 🎯 Project Objectives
 
-Then open the local URL provided by Flask in your browser.
+* Learn and practice Python programming
+* Explore fundamental cybersecurity concepts
+* Develop practical security-related functionality
+* Improve problem-solving and programming skills
+* Gain hands-on experience with cybersecurity
 
-## 🎯 Project Goals
+## 📚 What I Learned
 
-* Improve practical cybersecurity knowledge
-* Provide an interactive cybersecurity learning experience
-* Practice secure web application development
-* Combine programming and cybersecurity concepts
-* Encourage hands-on experimentation
+Working on CyberArena helped me practice:
 
-## 📚 Learning Outcomes
+* 🐍 Python programming
+* 🔐 Cybersecurity concepts
+* 🧠 Problem solving
+* 💻 Application development
+* 🛠️ Debugging and testing
+* 🔄 Git & GitHub
 
-Through CyberArena, this project explores:
+## 🚧 Project Status
 
-* 🌐 Web application development
-* 🔐 Cybersecurity fundamentals
-* 🗄️ Database integration
-* 🐍 Python and Flask development
-* 🛡️ Security-oriented programming
-* 🔄 Git and GitHub version control
+**Completed / Learning Project**
+
+This project was developed for educational purposes and may be expanded with additional cybersecurity features in the future.
 
 ## 👨‍💻 Author
 
@@ -95,11 +87,9 @@ Software Engineering Student | Aspiring Software Engineer & Web Developer
 
 * GitHub: [@tasadduqsardar0](https://github.com/tasadduqsardar0)
 
-## 📌 Project Status
+## ⚠️ Disclaimer
 
-🚧 **Active Development**
-
-CyberArena is being developed and improved as part of my learning journey in **software engineering, web development, and cybersecurity**.
+CyberArena is intended for **educational and ethical cybersecurity learning purposes only**. Do not use security-related functionality against systems or networks without proper authorization.
 
 ## 📜 License
 
